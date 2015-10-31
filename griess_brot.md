@@ -14,8 +14,8 @@ Zutaten
 - 1/2 Würfel Hefe
 - 2 EL Öl
 
-Vorbereitung
-============
+Zubereitung
+===========
 Wasser aufkochen, Griess und Salz beifügen, kurz aufkochen.
 Von der Kochplatte nehmen und unter gelegentlichem Rühren abkühlen lassen.
 
