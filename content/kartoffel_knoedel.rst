@@ -3,6 +3,7 @@ Kartoffel Knödel
 
 :tags: Tschechisch, Kartoffeln
 :category: Beilagen
+:date: 2015-11-09
 
 Für 15-20 Personen
 
