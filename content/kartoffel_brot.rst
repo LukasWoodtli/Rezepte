@@ -46,6 +46,6 @@ Backofen auf 160°C vorheizen (Umluft).
 Teig mit Wasser bestreichen, mit Mehl bestäuben.
 Längs einschneiden.
 
-60-70 min backen.
+70-80 min backen.
 
 Aus Form lösen. Auf Kuchenrost auskalten lassen.
