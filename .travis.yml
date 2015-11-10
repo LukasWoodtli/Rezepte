@@ -17,10 +17,18 @@ install:
   # bs4 is used by pelican-bootstrapify plug in
 #- pip install BeautifulSoup4
 
+before_script:
+- git config --global user.name ${GIT_NAME}
+- git config --global user.email ${GIT_EMAIL}
 
 
 script:
 - pelican -s pelicanconf.py .
 - ghp-import output
 - git push origin gh-pages
-  
+
+
+env:
+  global:
+    secure: JNdLq0N//T+PC2ms1PUGT04Udj49VzQhlGORVrjQA2VeJmBEahpBfU7IGYN6sIsvlJqeg0acDxQqb/RIZetifoJAf9Vtf5+BvNEh5M7aRTf1Sw5ECizyeuVOq04eI/sJvsTn5Q3AfmGUchMCrvqE78r5UoEd5aLP8bijYF99Rqo=
+
