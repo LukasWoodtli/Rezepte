@@ -19,7 +19,7 @@ install:
 
 before_script:
 - git config --global user.name "Travis-CI (Lukas Woodtli)"
-- git config --global user.email ${GIT_EMAIL}
+- git config --global user.email 'woodtli.lukas@gmail.com'
 
 
 script:
