@@ -26,7 +26,7 @@ script:
 - pelican -s pelicanconf.py .
 - ghp-import output
 #- git push origin gh-pages
-- push_to_gh_pages.sh
+- bash ./push_to_gh_pages.sh
 
 
 env:
