@@ -16,6 +16,8 @@ install:
 - pip install typogrify
   # bs4 is used by pelican-bootstrapify plug in
 #- pip install BeautifulSoup4
+- pip install ghp-import
+
 
 before_script:
 - git config --global user.name "Travis-CI (Lukas Woodtli)"
