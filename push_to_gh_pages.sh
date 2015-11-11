@@ -1,0 +1,1 @@
+git push --force https://${GH_TOKEN}@github.com/LukasWoodtli/Rezepte.git master:gh-pages
