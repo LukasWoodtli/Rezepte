@@ -5,15 +5,15 @@ Kartoffel Knödel
 :category: Beilagen
 :date: 2015-11-09
 
-Für 15-20 Personen
+Für 5 Personen
 
 Zutaten
 =======
 
-2.5 kg Kartoffeln
-ca. 1 kg Mehl (Spätzli Mehl)
-3 Eier
-Salz
+- 700 g Kartoffeln
+- ca. 300 g Mehl (Spätzli Mehl)
+- 1 Ei
+- Salz
 
 Zubereitung
 ===========
@@ -21,8 +21,8 @@ Zubereitung
 - Kartoffeln kochen
 - Noch warm schälen
 - Fein raffeln
-- Mit Eiern und Mehl vermengen
+- Mit Salz, Eiern und Mehl vermengen
 
 Teig darf nicht zu feucht sein.
 
-In Wasser kochen (simmern) bis die Knödel aufschwimmen.
+In Wasser kochen (simmern) bis die Knödel aufschwimmen. Kurz weiterkochen.
