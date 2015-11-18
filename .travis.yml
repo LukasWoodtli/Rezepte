@@ -18,7 +18,7 @@ before_script:
 
 script:
 - pelican -s pelicanconf.py .
-- bash ./set_remote.sh
+- bash ./publish_to_ghp.sh
 
 env:
   global:
