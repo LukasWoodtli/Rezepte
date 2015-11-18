@@ -1,16 +1,16 @@
-Khaki Créme
-###########
+Kaki Crème
+##########
 
-:tags: Früchte, Créme
+:tags: Früchte, Crème
 :category: Dessert
-:date: 2015|11|18
+:date: 2015-11-18
 
 +----------------------+---------------+
 || 4 Khaki             ||              |
 || 1 Zitrone (Schale)  ||              |
 || 1 EL Zitronensaft   ||              |
 || 1 TL Vanillezucker  ||              |
-|| 5 EL Zucker         || pürrieren    |
+|| 5 EL Zucker         || pürieren     |
 +----------------------+---------------+
 || 100 g Mascarpone    ||              |
 || ca. 90 g Sauerrahm  || untermischen |
