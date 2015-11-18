@@ -25,5 +25,5 @@ MD_EXTENSIONS = ['extra', 'sane_lists', 'toc', 'footnotes']
 
 DOCUTILS_SETTINGS = {'table_style' : 'borderless'} # 'math_output': 'mathjax'
 
-THEME = "pelican-chameleon"
+THEME = "blue-penguin"
 
