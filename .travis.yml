@@ -18,7 +18,7 @@ before_script:
 
 script:
 - pelican -s pelicanconf.py .
-- ghp-import -r github-publish output
+- ghp-import -r github-publish -m "Publish from Travis-CI" output
 
 env:
   global:
