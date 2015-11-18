@@ -14,11 +14,11 @@ install:
 before_script:
 - git config --global user.name 'Lukas Woodtli (travis-ci)'
 - git config --global user.email woodtli.lukas@gmail.com
+- git remote add github-publish https://${GH_TOKEN}@github.com/LukasWoodtli/Rezepte
 
 script:
 - pelican -s pelicanconf.py .
-- ghp-import output
-- bash ./push_to_gh_pages.sh
+- ghp-import -r github-publish output
 
 env:
   global:
