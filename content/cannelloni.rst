@@ -25,5 +25,5 @@ Cannelloni
 | 1 EL Butter, geschmolzen       | Cannelloni bestreichen |
 | 20 g Parmesan, gerieben        | darüber streuen        |
 +--------------------------------+------------------------+
-| Backen: 200 °C, 25-35 min (vorheizen)                    |
+| Backen: 200 °C, 25-35 min (vorheizen)                   |
 +---------------------------------------------------------+
