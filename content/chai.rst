@@ -4,7 +4,8 @@ Chai
 :category: Getränk
 :date: 2015-11-18
 
-.. cssclass::table-hover table-striped
+.. cssclass:: table-hover table-striped
+
 +------------------+-------------+---------------+
 | Zutaten          | für 10 l    | für 4 l       |
 +==================+=============+===============+
@@ -33,4 +34,3 @@ Chai
 - Gewürze mörsern, beifügen, aufkochen
 - Reubusch Tee beifügen
 - 3-5 min ziehen lassen
-
