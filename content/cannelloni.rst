@@ -6,7 +6,7 @@ Cannelloni
 :date: 2015-11-18
 
 +---------------------------------+------------------------+
-|| 25 Lasagne Blätter (200g)      | In Salzwasser kochen,  |
+| 25 Lasagne Blätter (200g)       | In Salzwasser kochen,  |
 |                                 | in kaltes Wasser legen |
 +---------------------------------+------------------------+
 || 1 EL Butter                    | In Pfanne schmelzen    |
