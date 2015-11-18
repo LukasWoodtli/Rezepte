@@ -27,3 +27,18 @@ DOCUTILS_SETTINGS = {'table_style' : 'borderless'} # 'math_output': 'mathjax'
 
 THEME = "blue-penguin"
 
+# provided as examples, they make ‘clean’ urls. used by MENU_INTERNAL_PAGES.
+TAGS_URL           = 'tags'
+TAGS_SAVE_AS       = 'tags/index.html'
+CATEGORIES_URL     = 'categories'
+CATEGORIES_SAVE_AS = 'categories/index.html'
+ARCHIVES_URL       = 'archives'
+ARCHIVES_SAVE_AS   = 'archives/index.html'
+
+# use those if you want pelican standard pages to appear in your menu
+MENU_INTERNAL_PAGES = (
+    ('Tags', TAGS_URL, TAGS_SAVE_AS),
+    ('Categories', CATEGORIES_URL, CATEGORIES_SAVE_AS),
+    ('Archives', ARCHIVES_URL, ARCHIVES_SAVE_AS),
+)
+
