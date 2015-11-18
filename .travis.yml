@@ -14,7 +14,7 @@ install:
 before_script:
 - git config --global user.name 'Lukas Woodtli (travis-ci)'
 - git config --global user.email woodtli.lukas@gmail.com
-- git remote add github-publish https://${GH_TOKEN}@github.com/LukasWoodtli/Rezepte
+- bash ./set_remote.sh
 
 script:
 - pelican -s pelicanconf.py .
