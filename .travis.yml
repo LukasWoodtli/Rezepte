@@ -10,9 +10,11 @@ install:
 - pip install Markdown
 - pip install typogrify
 - pip install ghp-import
+
 before_script:
-- git config --global user.name ${GIT_NAME}
-- git config --global user.email ${GIT_EMAIL}
+- git config --global user.name 'Lukas Woodtli (travis-ci)'
+- git config --global user.email woodtli.lukas@gmail.com
+
 script:
 - pelican -s pelicanconf.py .
 - ghp-import output
