@@ -4,8 +4,6 @@ Chai
 :category: Getränk
 :date: 2015-11-18
 
-.. cssclass:: table-hover table-striped
-
 +------------------+-------------+---------------+
 | Zutaten          | für 10 l    | für 4 l       |
 +==================+=============+===============+
