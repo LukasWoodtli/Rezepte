@@ -17,11 +17,6 @@ Dunkles Körner Brot
 || 1 TL Kümmel (gemahlen)         | glatten Teig kneten.    |
 || 1/2 TL Muskat (gerieben)       | Ca. 45 min gehen lassen.|
 +---------------------------------+-------------------------+
-|| 375 g Quark                    ||                        |
-|| 20 g Parmesan, gerieben        || unter ausgekühlten     |
-|| 2 Eigelb                       || Spinat mischen         |
-|| Salz, Pfeffer, Muskatnuss      || Würzen                 |
-+---------------------------------+-------------------------+
 | Teig auf bemehlten Arbeitsfläche zu einer Rolle formen.   |
 | In Cake-Form (ca. 30 cm x 11 cm, gefettet) legen. Der     |
 | Länge nach ca. 1 cm tief einschneiden. Mit Wasser         |
