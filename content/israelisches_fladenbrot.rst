@@ -1,8 +1,6 @@
 Pfannen Brot
 ############
 
-<!-- von Tom Franz -->
-
 :date: 2015-12-15
 :category: Brot
 
@@ -24,3 +22,5 @@ Alle Zutaten mischen. Kurz stehen lassen.
 In Pfanne mit Öl beiseitig gold-gelb braten.
 
 Warm essen.
+
+<!-- von Tom Franz -->
