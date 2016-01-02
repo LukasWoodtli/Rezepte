@@ -35,4 +35,4 @@ Teig gitterförmig einschneiden (ca. 1 cm tief).
 
 Ca. 10 min Backen.
 
-Backofen auf 180°C (Heissluft) herunterschalten. Weitere 30-40 Minuten backen.
+Backofen auf 180°C (Heissluft) herunterschalten. Weitere 45 Minuten backen.
