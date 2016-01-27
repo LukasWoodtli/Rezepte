@@ -21,7 +21,7 @@ before_script:
 script:
 - pelican -s pelicanconf.py .
 - bash ./publish_to_ghp.sh
-- linkchecker http://lukaswoodtli.github.io/Rezepte
+#- linkchecker http://lukaswoodtli.github.io/Rezepte
 
 
 env:
