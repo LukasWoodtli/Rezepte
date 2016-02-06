@@ -26,10 +26,10 @@ Roulade
 | 10 min bei 200° C im vorgeheiztem Backofen backen.   |
 +------------------------------------------------------+
 | Frisches Küchentuch auslegen, mit Zucker bestreuen.  |
-| Fertig gebakenes buskuit darau kippen. Backpapier    |
+| Fertig gebakenes Bisquit darauf kippen. Backpapier   |
 | mithilfe eines nassen Lappens lösen.                 |
 +----------------------------+-------------------------+
-| ca. 1 Glas Konfitüre       | Auf Biskuit verteilen,  |
+| ca. 1 Glas Konfitüre       | Auf Bisquit verteilen,  |
 |                            | aufrollen.              |
 +----------------------------+-------------------------+
 
