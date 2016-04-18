@@ -20,7 +20,7 @@ Teig
 +----------------------------+-------------------------+
 | 150 g Crémant Schokolade   | schmelzen, unterrühren  |
 +----------------------------+-------------------------+
-|| 200 g gemahlene Mandeln   | unter die Nasse rühren  |
+|| 200 g gemahlene Mandeln   | unter die Masse rühren  |
 || 50 g Paniermehl           |                         |
 +----------------------------+-------------------------+
 
@@ -33,8 +33,10 @@ Teig in Form (eingefettet) füllen.
 
 45 Minuten bei 180° C im vorgeheiztem Backofen backen.
 
-Überzug/Füllung
-===============
+Überzug
+=======
+
+Falls auch als Füllung verwendet: 2-3-Fache Menge.
 
 +----------------------------+-------------------------+
 | 150 g Butter               | weich rühren            |
