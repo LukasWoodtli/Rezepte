@@ -40,6 +40,9 @@ CATEGORIES_SAVE_AS = 'categories/index.html'
 ARCHIVES_URL = 'archives/'
 ARCHIVES_SAVE_AS = 'archives/index.html'
 
+# Keep the generated blog index but save it under different name
+#INDEX_SAVE_AS = 'blog_index.html'
+
 # use those if you want pelican standard pages to appear in your menu
 MENU_INTERNAL_PAGES = (
     ('Tags', TAGS_URL, TAGS_SAVE_AS),
