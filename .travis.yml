@@ -10,7 +10,7 @@ install:
 - pip install Markdown
 - pip install typogrify
 #- pip install ghp-import
-- pip install linkchecker
+#- pip install linkchecker
 
 before_script:
 - git config --global user.name 'Lukas Woodtli (travis-ci)'
@@ -21,7 +21,7 @@ before_script:
 script:
 - pelican -s pelicanconf.py .
 - bash ./publish_to_ghp.sh
-- linkchecker http://lukaswoodtli.github.io/Rezepte
+#- linkchecker http://lukaswoodtli.github.io/Rezepte
 
 
 env:
