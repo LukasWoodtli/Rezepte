@@ -20,7 +20,7 @@ before_script:
 
 script:
 - rm -rf output/
-- pelican -s pelicanconf.py .
+- make html
 - bash ./publish_to_ghp.sh
 #- linkchecker http://lukaswoodtli.github.io/Rezepte
 
