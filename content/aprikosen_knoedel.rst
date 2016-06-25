@@ -5,7 +5,6 @@ Aprikosen Knödel
 :category: Hauptgang
 :date: 2016-06-25
 
-Für 8 Personen
 
 Teig Masse
 ==========
@@ -17,16 +16,15 @@ Teig Masse
 || 150 g Hartweizengriess     | Schüssel geben,    |
 || 75-100 g Mehl              | zu einem formbaren |
 || 3 EL Zucker                | Teig kneten.       |
-|| 1 Prise Salz               |                    |
-|| 1 Päckchen Vanillezucker   |                    |
-|| 1 Zitrone (Schale gerieben)|                    |
-+-----------------------------+--------------------+
-|| Falls der Teig zu dünn ist, mehr Mehl beifügen. |
-|| Die Masse darf ziemlich feucht sein.            |
+|| 1 Prise Salz               | Falls der Teig zu  |
+|| 1 Päckchen Vanillezucker   | dünn ist, mehr     |
+|| 1 Zitrone (Schale gerieben)| Mehl beifügen.     |
 +-----------------------------+--------------------+
 
-Teig zugedeckt 2-3 Stunden kalt stellen
 
+Die Masse darf ziemlich feucht sein.
+
+Teig zugedeckt 2-3 Stunden kalt stellen.
 
 
 Füllung
@@ -61,4 +59,3 @@ Zum Servieren
 +---------------------+-------------------------------+
 | Butter              | Schmelzen, drüber geben       |
 +---------------------+-------------------------------+
-
