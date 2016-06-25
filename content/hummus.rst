@@ -2,7 +2,7 @@ Hummus
 ######
 
 :category: Beilagen
-:tag: Arabisch
+:tags: Arabisch
 :date: 2016-06-25
 
 
