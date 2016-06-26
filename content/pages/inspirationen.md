@@ -7,3 +7,5 @@ Title: Ideen
 - Club Sandwich
 - Summer Rolls
 - Wan Tan's
+- Pizza
+- Burger
