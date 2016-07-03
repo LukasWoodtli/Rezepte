@@ -39,7 +39,7 @@ Spinat-Rüebli-Randen-Saft
 =========================
 
 - 6 Blätter Spinat
-- 1 Rübli (bio, ungeschält)
+- 1 Rüebli (bio, ungeschält)
 - 1 Apfel (ungeschält, ev. mit Kerngehäuse)
 - 1/2 mittelgrosse Rande (geschält)
 - 5 dl Granatapfelsaft
@@ -47,3 +47,14 @@ Spinat-Rüebli-Randen-Saft
 - 4 dl Orangensaft
 
 Gemüse und Früchte klein schneiden, entsaften. Fruchtsäfte beimischen.
+
+Kiwi-Himbeer-Saft
+=================
+
+- 2 Kiwis, geschält
+- 1/2 dl Apfelsaft
+- evtl. 1 TL brauner Zucker
+- Wenig Zitronensaft
+- 50 Himbeeren
+
+Alles mixen, Himbeeren können auch ganz beigegeben werden (z. B. aufspiessen).
