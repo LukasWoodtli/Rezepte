@@ -54,7 +54,22 @@ Kiwi-Himbeer-Saft
 - 2 Kiwis, geschält
 - 1/2 dl Apfelsaft
 - evtl. 1 TL brauner Zucker
-- Wenig Zitronensaft
-- 50 Himbeeren
+- wenig Zitronensaft
+- 50 g Himbeeren
 
 Alles mixen, Himbeeren können auch ganz beigegeben werden (z. B. aufspiessen).
+
+
+Ingwer-Mango-Smoothie
+=====================
+
+- 2,5 dl Passionsfrucht-Saft
+- 1/2 Limette (Saft)
+- 1/2 TL Honig
+- 1/2 EL frisch geriebener Ingwer
+- 3 EL Apfelmuss
+- 1/2 Mango
+- Crushed Ice
+- 1 Stiel Minze
+
+Alles mixen, eiskalt trinken.
