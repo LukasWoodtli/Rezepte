@@ -6,6 +6,9 @@ Shakes, Smoothies & Säfte
 
 Ein paar Inspirationen.
 
+.. contents::
+
+
 Heidelbeer-Bananen-Shake
 ========================
 
@@ -30,3 +33,17 @@ Spinat-Melonen-Saft
 - 2 dl Orangensaft (oder 2 Orangen + wenig Wasser)
 
 Früchte schälen, zerkleinern. Alles im Mixer pürieren.
+
+
+Spinat-Rüebli-Randen-Saft
+=========================
+
+- 6 Blätter Spinat
+- 1 Rübli (bio, ungeschält)
+- 1 Apfel (ungeschält, ev. mit Kerngehäuse)
+- 1/2 mittelgrosse Rande (geschält)
+- 5 dl Granatapfelsaft
+- 1/2 Zitrone (Saft)
+- 4 dl Orangensaft
+
+Gemüse und Früchte klein schneiden, entsaften. Fruchtsäfte beimischen.
