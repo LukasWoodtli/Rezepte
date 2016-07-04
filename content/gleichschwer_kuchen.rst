@@ -6,10 +6,12 @@ Gleichschwer Kuchen
 :date: 2016-07-04
 
 Kleine Portion
+
 - Springform 15 cm Durchmesser oder
 - Cakeform 15 cm oder
 
 Grosse Portion
+
 - Springform 22-24 cm Durchmesser oder
 - Cakeform 22-25 cm oder
 - 12 Förmchen
