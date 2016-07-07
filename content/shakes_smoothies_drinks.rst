@@ -8,6 +8,18 @@ Ein paar Inspirationen.
 
 .. contents::
 
+Mögliche Zutaten
+================
+
+- Früchte
+- Gemüse: Spinat, Tomaten, Sellerie, Gurke, ...
+- Kräuter/Gewürze: Pfefferminze, Zimt, Vanille, Muskat, Ingwer, ...
+- Flocken/Körner, Nüsse (Kokos Raspel)
+- Fruchtsäfte
+- Eis, Crushed Ice
+- Lein Öl
+
+
 
 Heidelbeer-Bananen-Shake
 ========================
