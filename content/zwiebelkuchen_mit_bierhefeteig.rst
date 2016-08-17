@@ -1,4 +1,4 @@
-Wwiebelkuchen mit Bierhefeteig
+Zwiebelkuchen mit Bierhefeteig
 ##############################
 
 :category: Hauptgang
