@@ -13,8 +13,8 @@ Teig Masse
 | 2 kleine Eier               | verquirlen         |
 +-----------------------------+--------------------+
 || 500 g Halbfettquark        | Mit Eiern in       |
-|| 150 g Hartweizengriess     | Schüssel geben,    |
-|| 100 g Mehl                 | zu einem formbaren |
+|| 200 g Hartweizengriess     | Schüssel geben,    |
+|| 150 g Mehl                 | zu einem formbaren |
 || 3 EL Zucker                | Teig kneten.       |
 || 1 Prise Salz               | Falls der Teig zu  |
 || 1 Päckchen Vanillezucker   | dünn ist, mehr     |
