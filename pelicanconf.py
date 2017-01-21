@@ -22,7 +22,16 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 5
 PAGINATION_PATTERNS = ( (1, '{base_name}/', '{base_name}/index.html'), (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'), )
 
-MD_EXTENSIONS = ['extra', 'sane_lists', 'toc', 'footnotes']
+MARKDOWN = {
+            'extension_configs': {
+                        'markdown.extensions.extra': {},
+                        'markdown.extensions.sane_lists': {},
+                        'markdown.extensions.toc': {},
+                        'markdown.extensions.footnotes': {},
+                        'markdown.extensions.attr_list': {}
+            },
+            'output_format': 'html5',
+}
 
 DOCUTILS_SETTINGS = {'table_style' : 'borderless'} # 'math_output': 'mathjax'
 
