@@ -8,5 +8,6 @@ Title: Ideen
 - Summer Rolls
 - Wan Tan's
 - Pizza
-- Burger
+- Burger (Vegie, Fleisch)
 - Calzone
+- Kartoffelsalat
