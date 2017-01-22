@@ -56,8 +56,8 @@ DISPLAY_PAGES_ON_MENU = True
 
 # use those if you want pelican standard pages to appear in your menu
 MENU_INTERNAL_PAGES = (
-    ('Inspirationen', 'pages/', 'pages/inspirationen.html'),
-    ('Ausprobieren',  'pages/', 'pages/ausprobieren.html'),
+    ('Inspirationen', 'pages/ideen.html', 'pages/ideen.html'),
+    ('Ausprobieren',  'pages/rezept-ideen-zum-ausprobieren.html', 'pages/rezept-ideen-zum-ausprobieren.html'),
     ('Tags', TAGS_URL, TAGS_SAVE_AS),
     ('Kategorien', CATEGORIES_URL, CATEGORIES_SAVE_AS),
     ('Alle', ARCHIVES_URL, ARCHIVES_SAVE_AS),
