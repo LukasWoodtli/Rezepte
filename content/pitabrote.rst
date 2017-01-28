@@ -2,6 +2,7 @@ Pitabrote
 #########
 
 :category: Brot
+:tags: Arabisch
 :date: 2017-01-28
 
 Teig
