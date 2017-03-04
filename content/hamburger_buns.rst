@@ -12,7 +12,7 @@ Teig
 +-----------------------------+------------------------------------------------------+
 || 200 ml warmes Wasser       | Zusammen mischen. Kurz stehen lassen.                |
 || 4 EL Milch                 |                                                      |
-||1 Würfel frische Hefe       |                                                      |
+|| 1 Würfel frische Hefe      |                                                      |
 +-----------------------------+------------------------------------------------------+
 || 35 g Zucker                | Alles miteinander verrühren. Zu glattem Teig kneten. |
 || 8 g Salz                   |                                                      |
@@ -30,12 +30,10 @@ Teig
 +-----------------------------+------------------------------------------------------+
 | Sesam                       | Darüber streuen.                                     |
 +-----------------------------+------------------------------------------------------+
-                                                                                     
-                                                                                     
-                                                                                     
-Backen                                                                               
-======                                                                               
-                                                                                     
-Bei 200° C 10-15 min Backen (Ober- und Unterhitze)                                   
-                                                                                     
-                                                                                     
+
+
+
+Backen
+======
+
+Bei 200° C 10-15 min Backen (Ober- und Unterhitze)
