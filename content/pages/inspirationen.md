@@ -1,7 +1,8 @@
 Title: Ideen
 
 - Quiche
-- Pita
+- Gemüsestrudel
+- Pita (Hallumi ...)
 - Cäsar Salat
 - Griechischer Salat
 - Club Sandwich
@@ -11,3 +12,11 @@ Title: Ideen
 - Burger (Vegie, Fleisch)
 - Calzone
 - Kartoffelsalat
+- Thai Curry
+- Shakshukka
+- Flammkuchen
+- Hummus
+- Rotolo
+- Taccos
+- Fajitas, Quesedilla, Empanadas
+- Lasagne
