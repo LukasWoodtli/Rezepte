@@ -19,5 +19,6 @@ Title: Ideen
 - Rotolo
 - Taccos
 - Fajitas, Quesedilla, Empanadas
+- Samosa
 - Lasagne
 - Pesto, Pesto Rosso
