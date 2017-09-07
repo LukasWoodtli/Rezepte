@@ -22,3 +22,5 @@ Title: Ideen
 - Samosa
 - Lasagne
 - Pesto, Pesto Rosso
+- Schnipo
+- Suppe
