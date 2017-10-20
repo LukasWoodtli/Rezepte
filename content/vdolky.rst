@@ -30,3 +30,5 @@ Vdolky
 
 Alternativ kann man den Teig auswallen und die Vdolky mit einer
 Tasse ausstechen.
+
+Es sollten mindestens 12 Vdolky ergeben. Sonst werden sie zu gross.
