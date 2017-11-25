@@ -24,3 +24,4 @@ Title: Ideen
 - Pesto, Pesto Rosso
 - Schnipo
 - Suppe
+- Bircher Müesli
