@@ -25,3 +25,4 @@ Title: Ideen
 - Schnipo
 - Suppe
 - Bircher Müesli
+- Gulasch
