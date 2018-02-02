@@ -25,3 +25,4 @@ Title: Ideen
 - Schnipo
 - Suppe
 - Gulasch
+- Spaghetti mit Lachs, Zitrone und Baumnüssen
