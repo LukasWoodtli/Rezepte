@@ -24,5 +24,6 @@ Title: Ideen
 - Pesto, Pesto Rosso
 - Schnipo
 - Suppe
+- Bircher Müesli
 - Gulasch
 - Spaghetti mit Lachs, Zitrone und Baumnüssen
