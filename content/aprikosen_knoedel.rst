@@ -13,7 +13,7 @@ Teig Masse
 | 2 kleine Eier               | verquirlen         |
 +-----------------------------+--------------------+
 || 500 g Halbfettquark        | Mit Eiern in       |
-|| 220 g Hartweizengriess     | Schüssel geben,    |
+|| 250 g Hartweizengriess     | Schüssel geben,    |
 || 200 g Mehl                 | zu einem formbaren |
 || 3 EL Zucker                | Teig kneten.       |
 || 1 Prise Salz               | Falls der Teig zu  |
@@ -32,11 +32,11 @@ Füllung
 =======
 
 +-------------------------------------+------------------------------+
-| 8 kleine Aprikosen                  | Halbieren, Stein             |
+| 12 kleine Aprikosen                 | Halbieren, Stein             |
 |                                     | entfernen                    |
 +-------------------------------------+------------------------------+
-|| 8 Würfelzucker                     | Zucker in Schnapps tauchen   |
-|| 2 cl Aprikosenschnapps oder Kirsch | und in die Aprikosenhälften  |
+|| 12 Würfelzucker                    | Zucker in Schnapps tauchen   |
+|| 3 cl Aprikosenschnapps oder Kirsch | und in die Aprikosenhälften  |
 |                                     | legen.                       |
 +-------------------------------------+------------------------------+
 
@@ -57,11 +57,11 @@ Zum Servieren
 
 +---------------------+-------------------------------+
 || 30 g Mohn          | Mohn mahlen, Puderzucker      |
-|| 2 EL Puderzucker   | beigeben, über Knödel streuen |
-+---------------------+-------------------------------+
-| oder                                                |
+|| 2 EL Puderzucker   | beigeben                      |
 +---------------------+-------------------------------+
 | 30 g Paniermehl     | in wenig Butter anbraten      |
++---------------------+-------------------------------+
+| Crème Fraîche       | Darüber geben                 |
 +---------------------+-------------------------------+
 | Butter              | Schmelzen, drüber geben       |
 +---------------------+-------------------------------+
