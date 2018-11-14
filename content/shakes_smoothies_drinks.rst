@@ -12,10 +12,14 @@ Mögliche Zutaten
 ================
 
 - Früchte
-- Gemüse: Spinat, Tomaten, Sellerie, Gurke, ...
-- Kräuter/Gewürze: Pfefferminze, Zimt, Vanille, Muskat, Ingwer, ...
-- Flocken/Körner, Nüsse (Kokos Raspel)
+- Gemüse: Tomaten, Sellerie, Gurke
+- Salate: Eisberg, Chicorée, Chinakohl, Endivien, Nüsslisalat, Kohlrabiblätter, Kresse, Mangold, Römersalat, Rucola, Senfblätter, Spinat
+- Sprossen: Sojabohnen, Alfalfa, Kresse, Senf, Bockshornklee
+- Kräuter: Pfefferminze, Basilikum, Dill, Estragon, Koriander, Lavendel, Liebstöckel, Majoran, Minze, Oregano, Petersilie, Rosmarin, Salbei, Schnittlauch, Thymian, Melisse
+- Gewürze: Vanille, Ingwer, Matcha, Zimt, Vanille, Muskat, Ingwer
+- Flocken/Körner, Samen und Nüsse (eingeweicht), Kokos Raspel, Dörrobst (eingeweicht), Kakaobohnen
 - Fruchtsäfte
+- Kerne: Apfel, Birne, Grapefruit, Kaki, Melone, Orange, Papaya, Trauben, Zitrone (Kerne von anderen Früchten können viel Blausäure enthalten!)
 - Eis, Crushed Ice
 - Lein Öl
 
