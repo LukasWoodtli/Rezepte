@@ -20,6 +20,7 @@ Title: Ideen
 - Taccos
 - Fajitas, Quesedilla, Empanadas
 - Samosa
+- Dal mit Naan/Reis
 - Lasagne
 - Pesto, Pesto Rosso
 - Schnipo
