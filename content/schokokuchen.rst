@@ -29,7 +29,8 @@ Backen
 
 Backform: Springform 20 - 22 cm oder Cakeform 26 - 28 cm.
 
-Teig in Form (eingefettet) füllen.
+Teig in Form (mit Backpapier ausgelegt und eingefettet)
+füllen.
 
 45 Minuten bei 180° C im vorgeheiztem Backofen backen.
 
