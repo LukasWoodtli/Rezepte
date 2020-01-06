@@ -1,4 +1,5 @@
-Shakes, Smoothies & Säfte
+Shakes
+    - Smoothies & Säfte
 #########################
 
 :category: Getränk
@@ -12,17 +13,86 @@ Mögliche Zutaten
 ================
 
 - Früchte
-- Gemüse: Tomaten, Sellerie, Gurke
-- Salate: Eisberg, Chicorée, Chinakohl, Endivien, Nüsslisalat, Kohlrabiblätter, Kresse, Mangold, Römersalat, Rucola, Senfblätter, Spinat
-- Sprossen: Sojabohnen, Alfalfa, Kresse, Senf, Bockshornklee
-- Kräuter: Pfefferminze, Basilikum, Dill, Estragon, Koriander, Lavendel, Liebstöckel, Majoran, Minze, Oregano, Petersilie, Rosmarin, Salbei, Schnittlauch, Thymian, Melisse
-- Gewürze: Vanille, Ingwer, Matcha, Zimt, Vanille, Muskat, Ingwer
-- Flocken/Körner, Samen und Nüsse (eingeweicht), Kokos Raspel, Dörrobst (eingeweicht), Kakaobohnen
-- Fruchtsäfte
-- Kerne: Apfel, Birne, Grapefruit, Kaki, Melone, Orange, Papaya, Trauben, Zitrone (Kerne von anderen Früchten können viel Blausäure enthalten!)
+- Gemüse:
+    - Tomaten
+    - Sellerie
+    - Gurke
+- Salate:
+    - Eisberg
+    - Chicorée
+    - Chinakohl
+    - Endivien
+    - Nüsslisalat
+    - Kohlrabiblätter
+    - Kresse
+    - Mangold
+    - Römersalat
+    - Rucola
+    - Senfblätter
+    - Spinat
+- Sprossen:
+    - Sojabohnen
+    - Alfalfa
+    - Kresse
+    - Senf
+    - Bockshornklee
+- Kräuter:
+    - Pfefferminze
+    - Basilikum
+    - Dill
+    - Estragon
+    - Koriander
+    - Lavendel
+    - Liebstöckel
+    - Majoran
+    - Minze
+    - Oregano
+    - Petersilie
+    - Rosmarin
+    - Salbei
+    - Schnittlauch
+    - Thymian
+    - Melisse
+- Gewürze:
+    - Vanille
+    - Ingwer
+    - Matcha
+    - Zimt
+    - Muskat
+    - Anis
+    - Ingwer
+    - Pfeffer
+    - Chilli
+    - Kurkuma
+    - Meerrettich
+    - Wasabi
+    - Zitronengras
+    - Algen
+- Flocken/Körner
+- Samen und Nüsse (eingeweicht)
+- Mandelmus
+- Kokos Raspel
+- Dörrobst (eingeweicht)
+- Kakaobohnen
+- Fruchtsäfte, Zitronensaft
+- Kerne (Kerne von anderen Früchten können viel Blausäure enthalten!)
+    - Apfel
+    - Birne
+    - Grapefruit
+    - Kaki
+    - Melone
+    - Orange
+    - Papaya
+    - Trauben
+    - Zitrone
 - Eis, Crushed Ice
-- Lein Öl
-
+- Kefir, Mandelmilch, Sojamilch
+- Leinöl, Hanföl
+- Aktivkohlen
+- Essig
+- Weizen-, Gerstengrass
+- Sanddornsaft
+- Kaffee, Tee
 
 
 Heidelbeer-Bananen-Shake
@@ -48,32 +118,38 @@ Spinat-Melonen-Saft
 - 1 Melone
 - 2 dl Orangensaft (oder 2 Orangen + wenig Wasser)
 
-Früchte schälen, zerkleinern. Alles im Mixer pürieren.
+Früchte schälen
+    - zerkleinern. Alles im Mixer pürieren.
 
 
 Spinat-Rüebli-Randen-Saft
 =========================
 
 - 6 Blätter Spinat
-- 1 Rüebli (bio, ungeschält)
-- 1 Apfel (ungeschält, ev. mit Kerngehäuse)
+- 1 Rüebli (bio
+    - ungeschält)
+- 1 Apfel (ungeschält
+    - ev. mit Kerngehäuse)
 - 1/2 mittelgrosse Rande (geschält)
 - 5 dl Granatapfelsaft
 - 1/2 Zitrone (Saft)
 - 4 dl Orangensaft
 
-Gemüse und Früchte klein schneiden, entsaften. Fruchtsäfte beimischen.
+Gemüse und Früchte klein schneiden
+    - entsaften. Fruchtsäfte beimischen.
 
 Kiwi-Himbeer-Saft
 =================
 
-- 2 Kiwis, geschält
+- 2 Kiwis
+    - geschält
 - 1/2 dl Apfelsaft
 - evtl. 1 TL brauner Zucker
 - wenig Zitronensaft
 - 50 g Himbeeren
 
-Alles mixen, Himbeeren können auch ganz beigegeben werden (z. B. aufspiessen).
+Alles mixen
+    - Himbeeren können auch ganz beigegeben werden (z. B. aufspiessen).
 
 
 Ingwer-Mango-Smoothie
@@ -88,4 +164,5 @@ Ingwer-Mango-Smoothie
 - Crushed Ice
 - 1 Stiel Minze
 
-Alles mixen, eiskalt trinken.
+Alles mixen
+    - eiskalt trinken.
