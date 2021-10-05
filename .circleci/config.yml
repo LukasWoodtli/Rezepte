@@ -1,0 +1,25 @@
+version: 2.1
+
+jobs:
+  build_pelican_page:
+    docker:
+      - image: cimg/python:3.9.7
+    working_directory: ~/page
+    steps:
+      - checkout
+      - run: pip install --upgrade pip && pip install pelican Markdown typogrify
+      - run: git config --global user.name "circleci (Lukas Woodtli)" &&  git config --global user.email lukas_woodtli@circleci.example.com
+      - run: rm -rf output/
+      - run:
+          name: Clone Theme
+          command: ./clone_theme.sh
+      - run:
+          name: Build Web Page
+          command: make html
+      - run:
+          name: Publish to gh pages
+          command: ./publish_to_ghp.sh
+workflows:
+  build:
+    jobs:
+      - build_pelican_page
