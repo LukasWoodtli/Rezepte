@@ -28,3 +28,4 @@ Title: Ideen
 - Bircher Müesli
 - Gulasch
 - Spaghetti mit Lachs, Zitrone und Baumnüssen
+- Gefüllte Zucchetti
