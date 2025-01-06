@@ -3,9 +3,10 @@ name: Build and Deploy
 on:
   pull_request:
     branches: 
-     - '**'
+      - '**'
   push:
-    branches: [$default-branch] 
+    branches:
+      - 'main'
 
 permissions:
   contents: read
