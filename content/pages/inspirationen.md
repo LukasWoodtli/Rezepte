@@ -25,6 +25,7 @@ Title: Ideen
 - Pesto, Pesto Rosso
 - Schnipo
 - Hot Dog
+- Sandwich Toasts
 - Suppe
 - Bircher Müesli
 - Gulasch
