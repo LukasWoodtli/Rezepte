@@ -24,6 +24,7 @@ Title: Ideen
 - Lasagne
 - Pesto, Pesto Rosso
 - Schnipo
+- Hot Dog
 - Suppe
 - Bircher Müesli
 - Gulasch
